@@ -15,8 +15,13 @@
   ],
   "author": "slayer",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "-"
   },
-  "homepage": "https://github.com/slayerx10/burcapi#readme"
+  "homepage": "https://github.com/slayerx10/burcapi#readme",
+  "dependencies": {
+    "jsdom": "^21.1.0",
+    "node-fetch": "^3.3.0"
+  }
 }
